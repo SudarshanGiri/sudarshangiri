@@ -43,7 +43,7 @@
 ### 📕 Live Projects Demo
 
 <!-- BLOG-POST-LIST:START -->
-- [Shuvatara Photo Studio](http://www.shubhataralabs.com.np/)
+- [Shuvatara Photo Studio](http://studioshuvatara.com/)
 - [Responsive Portfolio Website: Build with vanilla JS,HTML5 and SCSS (no-framework)](http://sudarshangiri7.com.np/)
 - [React Burger Builder App](http://sudarshangiri.me/React--The-Burger-Builder/)
 - [Mini Car Game with vanilla JS](http://sudarshangiri.me/vanilla-js-car-game/)

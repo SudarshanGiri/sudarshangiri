@@ -44,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Shuvatara Photo Studio](http://studioshuvatara.com/)
-- [Responsive Portfolio Website: Build with vanilla JS,HTML5 and SCSS (no-framework)](http://sudarshangiri7.com.np/)
+- [Responsive Portfolio Website: Build with vanilla JS,HTML5 and SCSS (no-framework)](http://sudarshangiri.com.np/)
 - [React Burger Builder App](http://sudarshangiri.me/React--The-Burger-Builder/)
 - [Mini Car Game with vanilla JS](http://sudarshangiri.me/vanilla-js-car-game/)
 - [PSD to HTML5](http://sudarshangiri.me/psd-to-html/)

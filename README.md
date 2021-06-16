@@ -43,6 +43,7 @@
 ### 📕 Live Projects Demo
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamcast - SVG Animation](http://sudarshangiri.me/SVG-animation/)
 - [Shuvatara Photo Studio](http://studioshuvatara.com/)
 - [Responsive Portfolio Website: Build with vanilla JS,HTML5 and SCSS (no-framework)](http://sudarshangiri.com.np/)
 - [React Burger Builder App](http://sudarshangiri.me/React--The-Burger-Builder/)
